@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+body {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: linear-gradient(#0000008a, #000), url(../assets/Article_image_01.png);
+  background-repeat: norepeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Kaushan Script', cursive;
+}
+.content {
+  color: red;
+  font-size: 100px;
+  text-shadow: 5px 5px 20px #000;
+  text-transform: uppercase;
+}
